@@ -27,4 +27,5 @@ Bütün Gnu/Linux sistemlerinde kullanımı
   
 Ubuntuya kurulumu:
   ~$ cd ponyinfo
+  <br>
   ~$ sudo make install
