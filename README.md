@@ -33,7 +33,6 @@ Bütün Gnu/Linux sistemlerinde kullanımı
 <br>
 <br>
 <p>Ubuntuya kurulumu:</p>
-<br>
   ~$ cd ponyinfo
 <br>
   ~$ sudo make install
