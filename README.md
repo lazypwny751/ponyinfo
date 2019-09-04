@@ -37,6 +37,7 @@ Bütün Gnu/Linux sistemlerinde kullanımı
 <br>
   ~$ sudo make install
 <br>
+<br>
 <p>Ubuntuya&Debian kaldırılımı:</p>
   ~$ cd ponyinfo
 <br>
