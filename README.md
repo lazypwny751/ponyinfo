@@ -32,7 +32,11 @@ Bütün Gnu/Linux sistemlerinde kullanımı
  ~$ ponyinfo watch # mlp:fim ve mlp:eg serilerinin internettemevcut kaynaklarını görüntületir.
 <br>
 <br>
-<p>Ubuntuya kurulumu:</p>
+<p>Ubuntuya&Debian kurulumu:</p>
   ~$ cd ponyinfo
 <br>
   ~$ sudo make install
+<p>Ubuntuya&Debian kaldırılımı:</p>
+  ~$ cd ponyinfo
+<br>
+  ~$ sudo make uninstall
