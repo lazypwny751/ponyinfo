@@ -1,4 +1,4 @@
-# [en] ponyinfo
+# [En] ponyinfo
 Hello everybody if u want real program the ponyinfo u will going to:
   https://github.com/erkin/ponysay  
 it's free look at the Article 0:
