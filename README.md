@@ -8,7 +8,7 @@ it's free look at the Article 0:
 usage for all systems:
   ~$ ponyinfo remix 
 
-instalation on Ubuntu:
+installation on Ubuntu:
   ~$ cd ponyinfo
   ~$ sudo make install
 
